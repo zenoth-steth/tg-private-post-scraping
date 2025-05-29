@@ -1,8 +1,8 @@
 
 from telethon.sync import TelegramClient
 
-api_id =   
-api_hash = ""  
+api_id = 7795661987   
+api_hash = "AAEKIk-GbdeRcdyhh7NN347sQWiZ5XRJtjs"  
 channel_link = ""  
 client = TelegramClient("session_name", api_id, api_hash)
 client.start()
