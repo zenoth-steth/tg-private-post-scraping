@@ -6,8 +6,8 @@ from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.formatting.rule import CellIsRule
 
-api_id =   
-api_hash = ""  
+api_id = "7795661987"
+api_hash = "AAEKIk-GbdeRcdyhh7NN347sQWiZ5XRJtjs"  
 channel_identifier = ""  
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
